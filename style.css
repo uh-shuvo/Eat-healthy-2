@@ -4,6 +4,7 @@ body {
 
 .flexible-container {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -45,4 +46,32 @@ h1 {
     color: white;
     font-weight: bold;
     border-radius: 20px;
+}
+
+.about-me {
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.half-width-2 {
+    width: 40%;
+}
+
+.half-width-2 img {
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+
+.about-me {
+    margin-top: 80px;
+}
+
+h2 {
+    color: #575757;
+}
+
+.lorem {
+    color: #828282;
+    margin-bottom: 30px;
 }
