@@ -1,4 +1,6 @@
-body {}
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 .flexible-container {
     display: flex;
@@ -6,4 +8,41 @@ body {}
 
 .half-width {
     width: 50%;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+.text-one {
+    margin-top: 250px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: -60px;
+    color: #575757;
+    font-weight: 800;
+}
+
+.skip-color {
+    color: orange;
+}
+
+.imagine {
+    margin-top: -30px;
+    color: #828282;
+    margin-bottom: 30px;
+}
+
+.half-width img {
+    width: 100%;
+    margin-right: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
 }
