@@ -75,3 +75,35 @@ h2 {
     color: #828282;
     margin-bottom: 30px;
 }
+
+.recipies {
+    text-align: center;
+    color: #575757;
+}
+
+.flexible-img {
+    display: flex;
+    text-align: left;
+}
+
+.common-food {
+    text-align: center;
+}
+
+.common-food img {
+    width: 50%;
+    box-shadow: 10px 15px 10px gray;
+}
+
+.title {
+    text-align: left;
+    margin-left: 150px;
+}
+
+.project {
+    font-size: 18px;
+}
+
+.porject-lorem {
+    font-size: 10px;
+}
