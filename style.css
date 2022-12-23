@@ -107,3 +107,34 @@ h2 {
 .porject-lorem {
     font-size: 10px;
 }
+
+.div-3 {
+    display: flex;
+    margin-top: 50px;
+    width: 65%;
+    height: 110px;
+    box-shadow: 4px 4px 7px 5px gray;
+    border-radius: 5px;
+    margin-left: 210px;
+}
+
+.div1 {
+    margin-left: 140px;
+}
+
+.div2 {
+    margin-left: 100px;
+}
+
+.div3 {
+    margin-left: 100px;
+}
+
+.common-p {
+    font-size: 10px;
+}
+
+.common-bold {
+    font-weight: 900;
+    margin-bottom: -10px;
+}
