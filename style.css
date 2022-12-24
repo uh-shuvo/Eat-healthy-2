@@ -138,3 +138,26 @@ h2 {
     font-weight: 900;
     margin-bottom: -10px;
 }
+
+.eat-fresh {
+    text-align: center;
+}
+
+.eat {
+    color: orange;
+}
+
+.footer-section {
+    margin-top: 50px;
+    background-color: black;
+    height: 250px;
+}
+
+.healthy {
+    color: #e0e1e2;
+    font-size: 12px;
+}
+
+.eat-fresh {
+    padding-top: 20px;
+}
